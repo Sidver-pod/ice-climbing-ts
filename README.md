@@ -1,4 +1,5 @@
 # TS Practice Project
+TS practice building a backend consisting of a REST API using Node.js & Express.js.
 
 ## Install the following
 
